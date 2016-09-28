@@ -1,0 +1,11 @@
+.centered-h {
+  text-align: center;
+  /*font-family: 'Lustria', sans-serif;*/
+}
+
+body {
+  background-image: url("https://images6.alphacoders.com/407/407732.jpg");
+  color: springgreen;
+  font-family: Lato;
+  font-size: large;
+}
